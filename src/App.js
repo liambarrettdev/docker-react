@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Do, or do not, there is not try
+          Updated Text
         </p>
         <a
           className="App-link"
